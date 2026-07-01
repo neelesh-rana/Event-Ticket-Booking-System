@@ -253,7 +253,6 @@ mvn spring-boot:run
 
 GitHub: https://github.com/neelesh-rana
 
-LinkedIn: *(Add your LinkedIn profile here if you have one.)*
 
 ---
 
